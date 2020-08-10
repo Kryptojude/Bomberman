@@ -33,8 +33,6 @@ namespace Bomberman
             public int tick = 0;
             public List<Rectangle> recs = new List<Rectangle>();
             public List<string> recType = new List<string>();
-
-            public Explosion() { }
         }
         public class Player
         {
